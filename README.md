@@ -17,7 +17,7 @@
 
 ### 🏁 Próximos Objetivos
 
-- [ ] **AWS Certified Cloud Practitioner (CLF-C02)** — Meta: 25 de Julho de 2026
+- [x] **AWS Certified Cloud Practitioner (CLF-C02)** — Meta: 25 de Julho de 2026
 - [ ] **AWS Certified DevOps Engineer** — Próximo Marco
 - [ ] **Fundamentos de Matemática Avançada e Física** — Meta: Admissão no MIT
 
